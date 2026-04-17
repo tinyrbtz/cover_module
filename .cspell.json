@@ -1,0 +1,28 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": [
+    "/.claude/",
+    "/.elixir_ls/",
+    "/.git/",
+    "/mix.lock"
+  ],
+  "words": [
+    "analyse",
+    "async",
+    "coverdata",
+    "defmodule",
+    "ecto",
+    "erlef",
+    "heex",
+    "Mimic",
+    "Navin",
+    "nofile",
+    "Peiris",
+    "pids",
+    "rbtz",
+    "rootname",
+    "tinyrbtz",
+    "whereis"
+  ]
+}
